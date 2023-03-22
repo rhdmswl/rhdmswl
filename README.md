@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhdmswl
-- 👀 I’m interested in Python, R, SAS
-- 🌱 I’m currently learning Python, R, SAS, Statistics
+- 👀 I’m interested in Python, R, SAS, Java, SQL
+- 🌱 I’m currently learning Python, R, SAS, Statistics, Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
