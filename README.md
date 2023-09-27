@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-[출처] 깃허브 프로필 꾸미기|작성자 쩰라
+
