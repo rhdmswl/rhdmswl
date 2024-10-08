@@ -3,7 +3,7 @@ rhdmswl/rhdmswl is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=2000&pause=200&color=E9B0C5&background=FFEEFE00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=260&height=70&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB;I'm+eunji💗" alt="Typing SVG" /></a><h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C7F0&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB;I'm+eunji%F0%9F%92%97;I'm+Data+Analyst%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
